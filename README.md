@@ -11,6 +11,3 @@ This project is the implementation of a LLM-powered companion for my game Pots o
 - Run the ```TheSmasherOfPots.exe``` file.
 ## Important note
 NOTE: Uploading the gguf file to GitHub is tricky, so the project zip can also be downloaded here: https://drive.google.com/drive/folders/1w5Jk_ZD2wliu4Ciqc1jQxWmswTM5oK2Z?usp=drive_link 
-- If you download the repo files via the "Download Zip" button, some resource files (4 .resS files) will not download properly, since they make use of the Git LFS system.
-- Cloning the repo via Git will download all resource files properly.
-- Another solution is to download the four .resS files individually, and add them into the "TheSmasherOfPots_Data" directory.
